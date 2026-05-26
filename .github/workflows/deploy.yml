@@ -1,4 +1,4 @@
-name: Deploy ECS Application
+name: name: Deploy ECS Application v2
 
 on:
   push:
